@@ -8,11 +8,11 @@ Este repositorio contiene la implementación de una base de datos relacional par
 
 - Luis Fernando Bernal Ramirez
   
--Ashly Sofia Robayo Parra
+- Ashly Sofia Robayo Parra
 
--Kelvin Javier Restrepo Villalonga
+- Kelvin Javier Restrepo Villalonga
 
--Miguel Martinez Gallego
+- Miguel Martinez Gallego
 
 ---
 
