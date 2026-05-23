@@ -1,4 +1,4 @@
-# Entregable Final - Sistema Universitario con RAG
+Sistema Universitario con RAG
 
 Este repositorio contiene la implementación de una base de datos relacional para un Sistema Universitario, complementada con un sistema RAG (Retrieval-Augmented Generation) para la consulta inteligente de reglamentos institucionales. Este proyecto corresponde a la Actividad evaluativa final de la materia Sistemas de Gestión de Bases de Datos · DatAI.
 
