@@ -44,9 +44,6 @@ def consultar_asistente_integral():
     # --------------------------------------
     # 2. BÚSQUEDA SQL "INTELIGENTE" (DATOS)
     # --------------------------------------
-    # --------------------------------------
-    # 2. BÚSQUEDA SQL "INTELIGENTE" (DATOS)
-    # --------------------------------------
     
     # Buscar Materias mencionadas
     cursor.execute("""
