@@ -7,8 +7,11 @@ Este repositorio contiene la implementación de una base de datos relacional par
 **Integrantes del equipo:**
 
 - Luis Fernando Bernal Ramirez
+  
 -Ashly Sofia Robayo Parra
+
 -Kelvin Javier Restrepo Villalonga
+
 -Miguel Martinez Gallego
 
 ---
